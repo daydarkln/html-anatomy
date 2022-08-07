@@ -1,0 +1,12 @@
+{
+  "name": "html-anatomy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "waait": "^1.0.5"
+  },
+  "browserslist": [
+    "last 3 Chrome versions"
+  ]
+}
